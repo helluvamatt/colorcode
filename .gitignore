@@ -25,8 +25,11 @@ ColorCode.AcceptanceTests/Data/vb/strings.actual.html
 ColorCode.AcceptanceTests/Data/xml/xml-stylesheet.actual.html
 ColorCode.AcceptanceTests/Data/fsharp/fsharp-tutorial.actual.html
 ColorCode.AcceptanceTests/obj/
+ColorCode.AcceptanceTests/bin/
 ColorCode.Facts.xunit.results.xml
 ColorCode.Facts/obj/
-ColorCode.v11.suo
+ColorCode.Facts/bin/
 ColorCode/obj/
+ColorCode/bin/
 _ReSharper.ColorCode/
+*.suo
